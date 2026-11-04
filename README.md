@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Eslam
 
-<!--
-**eslammohibrahim/eslammohibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student from Giza, Egypt, working toward a career in AI and machine learning engineering.
 
-Here are some ideas to get you started:
+### Currently
+Building end-to-end machine learning projects in Python, learning deep learning with PyTorch, and graduating in 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+Python · NumPy · Pandas · Scikit-learn · Git · SQL
+
+### Projects
+Coming soon.
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/eslam-mohammed-704393449/)
