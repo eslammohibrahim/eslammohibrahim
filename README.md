@@ -12,4 +12,4 @@ Python · NumPy · Pandas · Scikit-learn · Git · SQL
 **[California House Price Prediction](https://github.com/eslammohibrahim/california-housing)**: data cleaning, feature engineering, and a comparison of three regression models. Best model: Gradient Boosting, R² 0.818.
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/eslam-mohamed-ibrahim-704393449/)
+[LinkedIn](https://www.linkedin.com/in/eslam-mohamed-ibrahim/)
