@@ -14,4 +14,4 @@ CS student in Giza, Egypt, graduating in 2027. I mostly write Python and I'm int
 
 Python, PyTorch, scikit-learn, pandas, FastAPI, Streamlit, Docker, Git
 
-[LinkedIn](https://www.linkedin.com/in/eslam-mohamed-ibrahim/)
+[Portfolio](https://eslammohibrahim.github.io) · [LinkedIn](https://www.linkedin.com/in/eslam-mohamed-ibrahim/)
